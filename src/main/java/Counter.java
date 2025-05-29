@@ -23,5 +23,4 @@ public class Counter {
 	public int getCount() {
 		return count;
 	}
-	
 }
