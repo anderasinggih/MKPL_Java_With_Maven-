@@ -8,7 +8,7 @@ public class Driver {
 		
 		System.out.println("Hitung:" + counter.getCount());
 		
-		counter.increment();
+		counter.increase();
 		
 		System.out.println("Hitung:" + counter.getCount());
 		
